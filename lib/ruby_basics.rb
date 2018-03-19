@@ -1,3 +1,7 @@
+# I know that methods return the last evaluation, but I find using the 
+# return keyword makes my code a little more readable
+# I used it unless explicitly asked for otherwise 
+
 def division(num1, num2)
   return num1 / num2
 end
